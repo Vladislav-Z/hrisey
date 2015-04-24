@@ -5,6 +5,8 @@ Hrisey [![Build Status](https://travis-ci.org/mg6maciej/hrisey.svg?branch=develo
 
 Boilerplate code suppressor tool for Android platform based on [Project Lombok](http://projectlombok.org/).
 
+More details on available annotaions in [wiki pages](https://github.com/mg6maciej/hrisey/wiki/Available-Annotations).
+
 Usage
 -----
 
