@@ -7,6 +7,8 @@ Boilerplate code suppressor tool for Android platform based on [Project Lombok](
 
 More details on available annotaions in [wiki pages](https://github.com/mg6maciej/hrisey/wiki/Available-Annotations).
 
+Current limitation: doesn't work with JDK 8. Any help resolving this issue is highly appreciated.
+
 Usage
 -----
 
